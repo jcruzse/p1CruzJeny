@@ -1,5 +1,6 @@
  
 <h2> Original Microwave </h2>
+![image](images/old-video.gif)
 <h3> Problems with Original Design </h3>
   
   * Display is too small
