@@ -1,5 +1,9 @@
-<h1> Project 1 </h1>
-  
+ 
 <h2> Original Microwave </h2>
+<h3> Problems with Original Design </h3>
   
+  * Display is too samll
+  * Unecessary and confusing buttons
+  * no open button
+  * 
 <h2> New Design </h2>
