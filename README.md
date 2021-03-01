@@ -1,6 +1,6 @@
  
 <h2> Original Microwave </h2>
-![old microwave](images/old_pic.HEIC)
+![old microwave](images/old_pic.jpg)
 ![old microwave gif](images/old-video.gif)
 <h3> Problems with Original Design </h3>
   
