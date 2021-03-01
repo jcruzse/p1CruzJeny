@@ -3,7 +3,7 @@
 ![old microwave](images/old_pic.jpg)
 <h3> Issues with Design </h3>
 *
-![old microwave gif](images/new_micro_2.gif)
+![old microwave gif](https://media.giphy.com/media/7HuaYPu7UCN0onWQVf/giphy.gif)
 <h3> Problems with Original Design </h3>
   
   * Display is too small
