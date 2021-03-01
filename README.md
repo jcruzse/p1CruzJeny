@@ -21,7 +21,7 @@
   * too complicated
   * too many features that will not be used
 <h3> Common Sequence of Action </h3>
-<h3> <span style="color:black"> Open -> Set Time -> Start -> Receive warning time is up -> Be able to stop*</span> </h3>
+<h3> <span style="color:black"> Open -> Set Time -> Start -> Receive warning time is up -> Be able to stop</span> </h3>
 <h2> New Design </h2>
 ![new microwave](images/new_microwave.jpg)
 <h3> Changes </h3>
