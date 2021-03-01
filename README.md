@@ -9,8 +9,19 @@
   * Display is too small
   * Unclear and confusing labels above display
   * Unecessary and confusing buttons
+  * Inconsistent shapes in buttons
   
-  
+<h2> Improvements needed </h2>
+<h3> Most Common Uses </h3>
+      * defrosting 
+      * reheating
+      * making tea
+<h3> Common Mistakes </h3>
+      * too complicated
+      * too many features that will not be used
 <h2> New Design </h2>
 ![new microwave](images/new_microwave.jpg)
 <h3> Changes </h3>
+* Bigger display
+* Removal of unecessary buttons
+* Made all buttons same shape except for on/off button
