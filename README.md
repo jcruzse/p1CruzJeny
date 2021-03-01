@@ -7,4 +7,4 @@
   * no open button
   
 <h2> New Design </h2>
-![image](/jenycruz/Desktop/spring2021/HCI/new_microwave.jpg)
+![image](Users/jenycruz/Desktop/spring2021/HCI/new_microwave.jpg)
