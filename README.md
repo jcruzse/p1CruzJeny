@@ -16,7 +16,7 @@
   * defrosting 
   * reheating
   * making tea
-  * 
+  
 <h3> Common Mistakes </h3>
   * too complicated
   * too many features that will not be used
@@ -29,3 +29,5 @@
 * Bigger display
 * Removal of unecessary buttons
 * Made all buttons same shape except for on/off button
+<h2> Video </h2>
+![video](https://youtu.be/uIzjgewfo0U)
