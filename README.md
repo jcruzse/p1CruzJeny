@@ -11,7 +11,6 @@
  * Unecessary and confusing buttons
  * Inconsistent shapes in buttons
   
-<h2> Improvements needed </h2>
 
 <h3> Most Common Uses </h3>
   * defrosting 
@@ -23,7 +22,8 @@
   * too many features that will not be used
 <h3> Common Sequence of Action </h3>
 <h3> <span style="color:black"> Open -> Set Time -> Start -> Receive warning time is up -> Be able to stop</span> </h3>
-<h2> New Design </h2>
+<h2> Improvements needed </h2>
+<h3> New Design </h3>
 ![new microwave](images/new_microwave.jpg)
 <h3> Changes </h3>
 * Bigger display
