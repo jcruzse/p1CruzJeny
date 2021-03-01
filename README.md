@@ -29,3 +29,5 @@
 * Bigger display
 * Removal of unecessary buttons
 * Made all buttons same shape except for on/off button
+<h3> Video </h3>
+https://www.youtube.com/watch?v=uIzjgewfo0U
