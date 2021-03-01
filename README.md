@@ -30,4 +30,4 @@
 * Removal of unecessary buttons
 * Made all buttons same shape except for on/off button
 <h2> Video </h2>
-![video](<iframe width="560" height="315" src="https://www.youtube.com/embed/uIzjgewfo0U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+![video](https://www.youtube.com/embed/uIzjgewfo0U")
