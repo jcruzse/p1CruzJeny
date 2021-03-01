@@ -29,4 +29,3 @@
 * Bigger display
 * Removal of unecessary buttons
 * Made all buttons same shape except for on/off button
-<h2> Video </h2>
