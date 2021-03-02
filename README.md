@@ -12,7 +12,7 @@
  * Inconsistent shapes in buttons
   
 
-<h3> Most Common Uses </h3>
+<h3> Most Common Uses/ Uncommon Uses </h3>
   * defrosting 
   * reheating
   * making tea
@@ -20,6 +20,10 @@
 <h3> Common Mistakes </h3>
   * too complicated
   * too many features that will not be used
+<h3> Feedback To User </h3>
+ * Sounds
+ * Message displayed after timer is up/ before
+ * 
 <h3> Common Sequence of Action </h3>
 <h3> <span style="color:black"> Open -> Set Time -> Start -> Receive warning time is up -> Be able to stop</span> </h3>
 <h2> Improvements needed </h2>
